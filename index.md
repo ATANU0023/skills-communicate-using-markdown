@@ -10,3 +10,14 @@ console.log("atenix")
 ```
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+```javascript
+let a =9
+let b=8
+const c =a +b
+console.log(c)
+
+```
